@@ -12,14 +12,14 @@ Implement a hash table data structure using separate chaining collision resoluti
 Implement a hash table data structure using linear probing collision resolution.
 
 
- #Unit-2: Divide and Conquer:
+#Unit-2: Divide and Conquer:
 Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
 Implement a recursive algorithm for computing the Euclidean distance between two points in 2D space using divide-and-conquer.
 Implement a divide-and-conquer algorithm for merging two sorted arrays.
 Implement a divide-and-conquer algorithm for sorting a linked list.
- #Unit-3: Dynamic Programming:
+#Unit-3: Dynamic Programming:
 Implement the Fibonacci sequence using dynamic programming in C or Python.
 Implement the longest common subsequence problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
 Implement the knapsack problem using dynamic programming in C or Python. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.
